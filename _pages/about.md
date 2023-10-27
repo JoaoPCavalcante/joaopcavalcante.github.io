@@ -47,6 +47,9 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
+
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+I’m always looking to collaborate with other researchers and expand my network and knowledge, if you are interested in discussing any of my research topics, you can contact me anytime. As I like to post some personal projects in an educational blog format, you should feel free to check them here; And for a deeper dive, you can explore a little more of my work on my github!.
