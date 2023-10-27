@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Research"
+    URL: "https://scholar.google.com/citations?user=iZNz_D0AAAAJ&hl=pt-BR"
         
   - title: "Blog Posts"
     url: /year-archive/
