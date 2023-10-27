@@ -10,7 +10,8 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    url: https://scholar.google.com/citations?user=iZNz_D0AAAAJ&hl=pt-BR
+    url: /portfolio
+    #https://scholar.google.com/citations?user=iZNz_D0AAAAJ&hl=pt-BR
         
   - title: "Blog Posts"
     url: /year-archive/
