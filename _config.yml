@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "João's Homepage"
 title_separator          : "-"
-name                     : &name "João Cavalcante"
+name                     : &name "João P Cavalcante"
 description              : &description "personal description"
 url                      : https://joaopcavalcante.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
