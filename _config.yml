@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "João Cavalcante"
-  avatar           : "fotoperfil.jpeg"
+  avatar           : "images/fotoperfil.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Pernambuco - Brazil"
   employer         : "Federal University of Pernambuco"
