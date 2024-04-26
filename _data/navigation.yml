@@ -9,16 +9,16 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
     #https://scholar.google.com/citations?user=iZNz_D0AAAAJ&hl=pt-BR
         
-  - title: #"Blog Posts"
-    url: #/year-archive/
+  #- title: #"Blog Posts"
+  #  url: #/year-archive/
     
   - title: "CV"
     # url: /cv/
     url: /files/CV_Joao_Cavalcante.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  # url: /markdown/
