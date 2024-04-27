@@ -1,13 +1,14 @@
 # main links links
 main:
+
+  - title: "Teaching"
+    url: /teaching/    
+    
   - title: "Publications"
     url: /https://scholar.google.com/citations?user=iZNz_D0AAAAJ&hl=pt-BR
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
