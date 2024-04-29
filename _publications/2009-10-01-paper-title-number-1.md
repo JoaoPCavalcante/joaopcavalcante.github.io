@@ -6,5 +6,4 @@ excerpt: 'Quasinormal modes of usual, four-dimensional, Kerr black holes are des
 date: Nov 11, 2020
 venue: 'Phys.Rev.D 102 (2020) 10, 105013'
 paperurl: '[10.1103/PhysRevD.102.105013](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013)'
-citation: 'Bruno Carneiro da Cunha and João Paulo Cavalcante (2020). &quot;Confluent conformal blocks and the Teukolsky master equation.&quot; <i>Phys.Rev.D 102 (2020) 10, 105013</i>. 1(1).'
 ---
