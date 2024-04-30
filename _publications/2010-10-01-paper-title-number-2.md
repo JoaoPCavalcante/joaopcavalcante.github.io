@@ -10,4 +10,4 @@ Quasinormal modes of usual, four-dimensional, Kerr black holes are described by 
 
 Paper [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013)
 
-![Small Figure](/images/foo-bar-identity.jpg){: .align-right width="250px"}
+![Small Figure](/images/foo-bar-identity.jpg){: .align-center width="300px"}
