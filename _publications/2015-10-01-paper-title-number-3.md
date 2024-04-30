@@ -1,11 +1,11 @@
 ---
-title: "Confluent conformal blocks and the Teukolsky master equation"
+title: "Scalar and Dirac perturbations of the Reissner-Nordström black hole and Painlevé transcendents"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-date: Nov 11, 2020
-venue: 'Phys.Rev.D 102 (2020) 10, 105013'
+date: Dec 14, 2021
+venue: 'Phys. Rev. D 104, 124040'
 ---
  
-Quasinormal modes of usual, four-dimensional, Kerr black holes are described by certain solutions of a confluent Heun differential equation. In this work, we express these solutions in terms of the connection matrices for a Riemann-Hilbert problem, which was recently solved in terms of the Painlevé V transcendent. We use this formulation to generate small-frequency expansions for the angular spheroidal harmonic eigenvalue and derive conditions on the monodromy properties for the radial modes. Using exponentiation, we relate the accessory parameter to a semiclassical conformal description and discuss the properties of the operators involved. For the radial equation, while the operators at the horizons have Liouville momenta proportional to the entropy intake, we find that spatial infinity is described by a Whittaker operator.
+We investigate spin-0 and spin-1/2 perturbations for nonextremal and extremal Reissner-Nordström backgrounds using the isomonodromic method. We calculate the fundamental quasinormal modes (QNMs) associated with each perturbation as a function of the electromagnetic coupling qQ and ratio Q/M. After corroborating the literature values for generic qQ and Q/M, we turn to study the near-extremal limit. In parallel with the study of QNMs for the Kerr geometry, we find the existence of “nondamping” modes for qQ above a spin-dependent critical value and locate the bifurcation point in the q−Q parameter space.
 
-Paper [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013)
+Paper [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.124040](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.124040)
