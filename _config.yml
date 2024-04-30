@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "João Cavalcante"
   avatar           : "perfil.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : " "
   location         : "Pernambuco - Brazil"
   employer         : "Federal University of Pernambuco"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
