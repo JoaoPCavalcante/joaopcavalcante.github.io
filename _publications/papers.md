@@ -1,11 +1,11 @@
 ---
-title: "Confluent conformal blocks and the Teukolsky master equation"
+title: "Exceptional point and hysteresis in perturbations of Kerr black holes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-date: Nov 11, 2020
-venue: 'Phys.Rev.D 102 10, 105013'
+permalink: /publication/paperPRL
+date: Dec 30, 2024
+venue: 'Phys.Rev.Lett. 133 (2024) 26, 261401'
 ---
  
-Quasinormal modes of usual, four-dimensional, Kerr black holes are described by certain solutions of a confluent Heun differential equation. In this work, we express these solutions in terms of the connection matrices for a Riemann-Hilbert problem, which was recently solved in terms of the Painlevé V transcendent. We use this formulation to generate small-frequency expansions for the angular spheroidal harmonic eigenvalue and derive conditions on the monodromy properties for the radial modes. Using exponentiation, we relate the accessory parameter to a semiclassical conformal description and discuss the properties of the operators involved. For the radial equation, while the operators at the horizons have Liouville momenta proportional to the entropy intake, we find that spatial infinity is described by a Whittaker operator.
+We employ the isomonodromic method to study linear scalar massive perturbations of Kerr black holes for generic scalar masses $M\mu$ and generic black hole spins $a/M$. We find that the longest-living quasinormal mode and the first overtone coincide for $(M\mu)_c \simeq 0.3704981$ and $(a/M)_c \simeq 0.9994660$. We also show that the longest-living mode and the first overtone change continuously into each other as we vary the parameters around the point of degeneracy, providing evidence for the existence of a geometric phase around an exceptional point. We interpret our findings through a thermodynamic analogy.
 
-Paper [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.105013)
+Paper [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.261401](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.261401)
