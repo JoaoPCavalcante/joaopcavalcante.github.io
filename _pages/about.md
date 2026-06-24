@@ -10,9 +10,7 @@ redirect_from:
 
 Hello there! Welcome to my personal website.
 
-I'm a theoretical physics with an interest the general relativity, conformal field theory, and integral systems.
-
-I’m always looking to collaborate with other researchers and expand my network and knowledge if you are interested in discussing any of my research topics, you can contact me anytime. As I like to post some personal projects in an educational blog format, you should feel free to check them here; For a deeper dive, you can explore more of my work on my GitHub.
+Hello and welcome! I'm a theoretical physicist working at the intersection of general relativity, conformal field theory, and integrable systems. I'm always open to new collaborations and conversations—if you'd like to discuss research, feel free to contact me anytime. On this site, you'll find some of my personal projects presented in a blog-style format, and for a deeper dive into the technical details, check out my GitHub.
 
 ![Small Figure](/images/ringdown.jpg){: .align-left width="350px"}
 ![Small Figure](/images/singularities.jpg){: .align-right width="300px"}
