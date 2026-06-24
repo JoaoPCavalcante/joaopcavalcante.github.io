@@ -83,8 +83,8 @@ author:
   name             : "João Cavalcante"
   avatar           : "perfil.png"
   bio              : " "
-  location         : "Pernambuco - Brazil"
-  employer         : "Federal University of Pernambuco"
+  location         : "São Paulo - Brazil"
+  employer         : "Federal University of ABC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iZNz_D0AAAAJ&hl=pt-BR"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jao_pcavalcante"
+  twitter          : #"jao_pcavalcante"
   vine             :
   weibo            :
   xing             :
